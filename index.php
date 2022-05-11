@@ -1,6 +1,6 @@
 <?php
 $qq=$_GET['qq'];
-$con=mysqli_connect("127.0.0.1","root","TANGqi0924","table8e");
+$con=mysqli_connect("47.111.31.113","root","TANGqi0924","table8e");
 // 检测连接
 if (mysqli_connect_errno())
 {
